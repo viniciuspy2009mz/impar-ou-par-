@@ -1,6 +1,12 @@
-# impar-ou-par-
-Aprendendo Python do zero com exercícios simples.
+# 🐍 Python Iniciante
 
-# objetivo
-Em busca de me tornar um profissional de destaque na área de Inteligência Artificial, documentando aqui minha evolução em programação.
+Este repositório contém meus primeiros projetos em Python.
 
+## 📌 Projetos
+- par_ou_impar.py → verifica se um número é par ou ímpar
+
+## 🎯 Objetivo
+Aprender programação do zero e evoluir até me tornar um profissional na área de Inteligência Artificial.
+
+## 🚀 Progresso
+Vou adicionar novos projetos conforme avanço nos estudos.
